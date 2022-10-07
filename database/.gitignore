@@ -1,0 +1,5 @@
+*.sqlite
+*.sqlite-journal
+/*.mwb
+/*.zip
+/*.mwb.bak

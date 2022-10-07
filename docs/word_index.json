@@ -1,0 +1,15 @@
+[
+  {
+    "id_word": 0,
+    "word": "слово",
+    "jests": [
+      {
+        "nedooformleno": 0,
+        "pivot": {
+          "id_word": 0,
+          "id_jest": 0
+        }
+      }
+    ]
+  }
+]

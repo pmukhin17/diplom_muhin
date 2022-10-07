@@ -1,0 +1,22 @@
+[
+  {
+    "id_jest": 0,
+    "jest": "название жеста",
+    "nedooformleno": 0,
+    "id_dialect": 0,
+    "id_actual": 0,
+    "id_style": 0,
+    "dialect": {
+      "id_dialect": 0,
+      "dialect": "Название диалекта"
+    },
+    "actual": {
+      "id_actual": 0,
+      "actual": "Актуальность"
+    },
+    "style": {
+      "id_style": 0,
+      "style": "Тип перевода"
+    }
+  }
+]

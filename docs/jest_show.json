@@ -1,0 +1,225 @@
+{
+  "id_jest": 1,
+  "jest": "абажур",
+  "description": "<p>Показывается жест \"Свет\":<br />Кисть правой руки на уровне глаз или выше в \"Е-конфигурации\"; коротко двигаясь вниз и напротив лица, раскрывается в \"5-конфигурацию\", ладонь обращена вниз и чуть влево;<br />в этот момент к ней подносится левая рука уже раскрытая в \"5-конфигурацию\" и обращённая ладонью вниз и чуть вправо, и из этого положения (напротив лица), обе кисти рук расходясь движутся вниз, как бы обхватывая контур абажура.</p>",
+  "etymology": "<p>Описательный жест по внешнему виду предмета.</p>\r\n<p>АБАЖУРЪ м. фрнц. косой навѣсецъ на свѣтъ, на свѣчу, лампу для затина; навѣсецъ, тѣнникъ, затинъ, щитокъ, колпакъ, козырёкъ; || косые проёмы для оконъ, сверху внизъ, окно откосомъ.<br />В. И. Даль , Толковый словарь живого великорусского языка [Текст], В 4 т., Москва: Русский язык, 1999. &mdash; Т. 1 : А-З - 1999 - 699 с., 1 портр.. &mdash; , <span lang=\"zxx\">ISBN</span> 5-200-02659-8 (т. 1) 5-200-02658-<span lang=\"zxx\">X</span>.</p>\r\n<p>АБАЖУР <span lang=\"ru-RU\">Заимств. из франц. яз. в начале XIX в. Франц. abat-jour образовано сложением глагола abat &laquo;отражает, ослабляет&raquo; (отabattre &laquo;отражать&raquo;) и слова jour в знач. &laquo;свет&raquo;. Буквально абажур &mdash; &laquo;то, что отражает свет&raquo;. По второй части сложения родственно словам журнал, дежурить.<br /></span>Школьный этимологический словарь русского языка. Происхождение слов. &mdash; М.: Дрофа Н. М. Шанский, Т. А. Боброва 2004 / Режим доступа: <a href=\"http://enc-dic.com/rusethy\">http://enc-dic.com/rusethy</a></p>",
+  "paradigm_root": "не входит в кусты",
+  "obraz_root": "не входит в кусты",
+  "hand_double": 1,
+  "context_in": "<p><em>На столе стояла лампа под старым АБАЖУРОМ.</em></p>",
+  "context_off": null,
+  "note": "<p>Гейльман И. Ф., Специфические средства общения глухих. часть 1-4, ЛВЦ ВОГ, Ленинград, 1975-1978.</p>\r\n<p class=\"western\">Гуленков Геннадий Алексеевич, Центр информатизации, социальных технологических исследований и социологического анализа (Центр ИСТИНА), Электронная обучающая система (ЭОС) \"Русский жестовый язык\", Электронное, <span lang=\"zxx\">CD</span>, Москва, 2001.</p>",
+  "state": 1,
+  "admin_checked": 1,
+  "nedooformleno": 0,
+  "deviant": 0,
+  "created_at": "1997-02-18 08:00:00",
+  "updated_at": "2017-03-04 09:55:08",
+  "id_jest_paradigm": null,
+  "id_jest_obraz": null,
+  "id_style": 9070799,
+  "id_vid": 7558901,
+  "id_dialect": 1,
+  "id_actual": 6633460,
+  "id_move": 9091564,
+  "id_tema": 12,
+  "id_conf_begin": 9091575,
+  "id_conf_end": 9091586,
+  "id_conf_offhand_begin": 9091586,
+  "id_conf_offhand_end": 9091586,
+  "notation_formula": null,
+  "id_location": null,
+  "id_orient": null,
+  "id_sym_marker": null,
+  "actual": {
+    "id_actual": 6633460,
+    "actual": "Современный"
+  },
+  "config_begin": {
+    "id_conf": 9091575,
+    "base_conf": "Е-конфигурация",
+    "id_config_notation": null,
+    "id_thumbmode": null,
+    "id_fingersmode": null,
+    "id_finger_collide1": null,
+    "id_finger_collide2": null,
+    "id_finger_collide3": null,
+    "pic": null
+  },
+  "config_end": {
+    "id_conf": 9091586,
+    "base_conf": "С-конфигурация",
+    "id_config_notation": null,
+    "id_thumbmode": null,
+    "id_fingersmode": null,
+    "id_finger_collide1": null,
+    "id_finger_collide2": null,
+    "id_finger_collide3": null,
+    "pic": null
+  },
+  "config_offhand_begin": {
+    "id_conf": 9091586,
+    "base_conf": "С-конфигурация",
+    "id_config_notation": null,
+    "id_thumbmode": null,
+    "id_fingersmode": null,
+    "id_finger_collide1": null,
+    "id_finger_collide2": null,
+    "id_finger_collide3": null,
+    "pic": null
+  },
+  "config_offhand_end": {
+    "id_conf": 9091586,
+    "base_conf": "С-конфигурация",
+    "id_config_notation": null,
+    "id_thumbmode": null,
+    "id_fingersmode": null,
+    "id_finger_collide1": null,
+    "id_finger_collide2": null,
+    "id_finger_collide3": null,
+    "pic": null
+  },
+  "dialect": {
+    "id_dialect": 1,
+    "dialect": "Гейльман И. Ф."
+  },
+  "jest_obraz": null,
+  "jest_paradigm": null,
+  "location": null,
+  "move": {
+    "id_move": 9091564,
+    "move": "Перед собой",
+    "id_movement": null,
+    "id_move_diacritics": null,
+    "pic": null
+  },
+  "orientation": null,
+  "style": {
+    "id_style": 9070799,
+    "style": "Литературный"
+  },
+  "sym_marker": null,
+  "theme": {
+    "id_tema": 12,
+    "asset_id": 288,
+    "access_id": 1,
+    "state": 1,
+    "value": "Дом",
+    "parent_id": 78
+  },
+  "vid": {
+    "id_vid": 7558901,
+    "vid": "Составной"
+  },
+  "jest_analogs": [],
+  "bibliographies": [],
+  "lexicons": [
+    {
+      "id_lexicon": 9091560,
+      "lexicon": "2 Ступень. Соцобеспечение",
+      "pivot": {
+        "id_jest": 1,
+        "id_lexicon": 9091560
+      }
+    },
+    {
+      "id_lexicon": 9091561,
+      "lexicon": "1 Ступень. Общий уровень",
+      "pivot": {
+        "id_jest": 1,
+        "id_lexicon": 9091561
+      }
+    }
+  ],
+  "jest_sostav": [
+    {
+      "id_jest_master": 1,
+      "id_jest_child": 251,
+      "order_id": 1,
+      "jest_child": {
+        "id_jest": 251,
+        "jest": "свет",
+        "description": "<p>Кисть правой руки на уровне глаз или выше в \"Е-конфигурации\"; двигаясь вниз и в сторону (направление движения вариативно в зависимости от контекста), раскрывается в \"5-конфигурацию\".</p>",
+        "etymology": "<p>Образный жест, изображающий лучи, расходящиеся от источника света.</p>\r\n<p>СВѢТЪ м. состоянье противное тьмѣ, темнотѣ, мраку, потемкамъ, что даетъ способъ видѣть; иные свѣтъ принимаютъ за сотрясеніе малѣйшихъ частицъ вещества, другіе &mdash; за особое, тончайшее вещество, разливаемое всюду солнцемъ и огнемъ. Свѣтъ прямой, самосвѣтъ, отъ горящаго тѣла, солнца; свѣтъ чужой, отражательный, отъ темнаго тѣла, на которое падаетъ прямой свѣтъ. Свѣтъ денной, солнечный; свѣтъ огневой. Свѣтъ ширится лучами, отъ точки повсюдно, образуя шаръ. <em>Отойди отъ свѣту, не заступай свѣту, не засть, не стой въ свѣту, противъ свѣта</em>. <em>Свѣтъ насталъ, разсвѣтаетъ, солнце всходитъ.</em> <em>Чуть свѣтъ, набрезгу, зарей, назарѣ. Свѣтомъ крыто, вѣтромъ огорожено, ничего нѣтъ.</em> <em>Въ теми свѣтъ видѣнъ</em>, зарево, огонекъ, или сіянье, блескъ. <em>Лѣтомъ свѣтъ во всю ночь</em>, свѣтло.<br />В. И. Даль , Толковый словарь живого великорусского языка [Текст], В 4 т., Москва: Русский язык, 1999. &mdash; Т. 4 : <span lang=\"zxx\">p</span>-<span lang=\"zxx\">V</span> - 1999 - 688 с., 1 портр.. &mdash; , <span lang=\"zxx\">ISBN</span> 5-200-02662-8 (т. 4) 5-200-02658-<span lang=\"zxx\">X</span>.</p>\r\n<p>СОЛНЦЕ в значении \"свет\" безотносительно самого светила Солнца.</p>\r\n<p style=\"margin-bottom: 0cm;\"><span lang=\"zxx\">ГОРЕТЬ </span><span lang=\"ru-RU\">-рю́, -ри́шь; несов.<br /></span><span lang=\"ru-RU\">2.&nbsp;</span>Давать свет, пламя.<br /><span lang=\"ru-RU\"><em>Лампочка горит. Примус горит</em>.<br /></span>□<br /><span lang=\"ru-RU\"><em>Электричество в Одессе давно не горело. О нём забыли</em>. Паустовский, Время больших ожиданий.</span></p>\r\n<p style=\"margin-bottom: 0cm;\">&nbsp;</p>\r\n<p style=\"margin-bottom: 0cm;\">Малый академический словарь. &mdash; М.: Институт русского языка Академии наук СССР Евгеньева А. П. 1957&mdash;1984, Режим доступа: <a href=\"http://enc-dic.com/academic\"><span lang=\"zxx\">http</span>://<span lang=\"zxx\">enc</span>-<span lang=\"zxx\">dic</span>.<span lang=\"zxx\">com</span>/<span lang=\"zxx\">academic</span></a></p>\r\n<p>&nbsp;</p>\r\n<p style=\"margin-bottom: 0cm;\">&nbsp;</p>",
+        "paradigm_root": "корень",
+        "obraz_root": "не входит в кусты",
+        "hand_double": 0,
+        "context_in": "<p><em style=\"text-indent: 0cm;\"><span style=\"color: #000000;\"><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 8pt;\">СВѢТОМЪ</span></span></span></em><em>&nbsp;крыто, вѣтромъ огорожено, ничего нѣтъ.</em></p>\r\n<p><em>На столе ГОРЕЛА лампа.</em></p>\r\n<p><em>В лесу под деревьями всегда мало СОЛНЦА и прохладно.</em></p>\r\n<p><em>В глубине пещеры не бывает СОЛНЦА.</em></p>\r\n<p><em>Электричество в Одессе давно не ГОРЕЛО. О нём забыли</em>.<br />(Паустовский, Время больших ожиданий).</p>",
+        "context_off": "<p><em>Корабельщики в ответ: \"мы объехали весь СВЕТ\"</em>. - Здесь смысл: \"МИР, ЗЕМЛЯ, ПЛАНЕТА\".</p>",
+        "note": "<p>Гуленков Геннадий Алексеевич, Центр информатизации, социальных технологических исследований и социологического анализа (Центр ИСТИНА), Электронная обучающая система (ЭОС) \"Русский жестовый язык\", Электронное, <span lang=\"zxx\">CD</span>, Москва, 2001.</p>",
+        "state": 1,
+        "admin_checked": 1,
+        "nedooformleno": 0,
+        "deviant": 0,
+        "created_at": "1997-06-01 08:00:00",
+        "updated_at": "2017-02-24 18:40:54",
+        "id_jest_paradigm": null,
+        "id_jest_obraz": null,
+        "id_style": 9070799,
+        "id_vid": 7203973,
+        "id_dialect": 1,
+        "id_actual": 6633460,
+        "id_move": 6864848,
+        "id_tema": 19,
+        "id_conf_begin": 9091575,
+        "id_conf_end": 9091599,
+        "id_conf_offhand_begin": 0,
+        "id_conf_offhand_end": 0,
+        "notation_formula": null,
+        "id_location": null,
+        "id_orient": null,
+        "id_sym_marker": null
+      }
+    },
+    {
+      "id_jest_master": 1,
+      "id_jest_child": 1802,
+      "order_id": 2,
+      "jest_child": {
+        "id_jest": 1802,
+        "jest": "конус",
+        "description": "<p>Кисти рук в \"С-конфигурациях\" поставлены на уровне плеч, обращены ладонями одна к другой и соприкасаются кончиками пальцев; руки опускаются и расходятся в стороны, описывая форму конуса.</p>",
+        "etymology": "<p>Иконичный жест, описываюий форму предмета.</p>",
+        "paradigm_root": "не входит в кусты",
+        "obraz_root": "не входит в кусты",
+        "hand_double": 1,
+        "context_in": null,
+        "context_off": null,
+        "note": null,
+        "state": 1,
+        "admin_checked": 1,
+        "nedooformleno": 1,
+        "deviant": 0,
+        "created_at": "2017-03-04 09:54:57",
+        "updated_at": "2018-02-28 10:31:16",
+        "id_jest_paradigm": null,
+        "id_jest_obraz": null,
+        "id_style": 9070799,
+        "id_vid": 7203973,
+        "id_dialect": 9091570,
+        "id_actual": 6633460,
+        "id_move": 9091564,
+        "id_tema": 81,
+        "id_conf_begin": 9091586,
+        "id_conf_end": 9091586,
+        "id_conf_offhand_begin": 9091586,
+        "id_conf_offhand_end": 9091586,
+        "notation_formula": null,
+        "id_location": null,
+        "id_orient": null,
+        "id_sym_marker": null
+      }
+    }
+  ],
+  "words": [
+    {
+      "id_word": 1,
+      "word": "абажур",
+      "deviant": 0,
+      "pivot": {
+        "id_jest": 1,
+        "id_word": 1
+      }
+    }
+  ]
+}
